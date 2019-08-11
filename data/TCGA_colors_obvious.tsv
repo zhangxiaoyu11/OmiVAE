@@ -1,0 +1,41 @@
+Colors	Disease Code	Disease Name	Chinese Name	Ant Color
+#a8071a	GBM	Glioblastoma multiforme	多形性胶质母细胞瘤	red-8
+#ff7875	LGG	Brain Lower Grade Glioma	良性脑胶质瘤	red-4
+#ffccc7	NBL	Neuroblastoma	神经母细胞瘤	red-2
+#d4380d	PCPG	Pheochromocytoma and Paraganglioma	嗜铬细胞瘤与副神经节瘤	volcano-7
+#fa541c	ACC	Adrenocortical carcinoma	肾上腺皮质癌	volcano-6
+#ff7a45	THCA	Thyroid carcinoma	甲状腺癌	volcano-5
+#ffbb96	BRCA	Breast invasive carcinoma	乳腺浸润性癌	volcano-3
+#ad4e00	CESC	Cervical squamous cell carcinoma and endocervical adenocarcinoma	宫颈鳞癌和腺癌	orange-8
+#d46b08	OV	Ovarian serous cystadenocarcinoma	卵巢浆液性囊腺癌	orange-7
+#fa8c16	UCEC	Uterine Corpus Endometrial Carcinoma	子宫内膜癌	orange-6
+#ffd591	UCS	Uterine Carcinosarcoma	子宫肉瘤	orange-3
+#876800	LIHC	Liver hepatocellular carcinoma	肝细胞肝癌	yellow-9
+#d4b106	CHOL	Cholangiocarcinoma	胆管癌	yellow-7
+#fadb14	STAD	Stomach adenocarcinoma	胃腺癌	yellow-6
+#fffb8f	ESCA	Esophageal carcinoma	食管癌	yellow-3
+#ad6800	PAAD	Pancreatic adenocarcinoma	胰腺癌	gold-8
+#faad14	COAD	Colon adenocarcinoma	结肠腺癌	gold-6
+#ffd666	READ	Rectum adenocarcinoma	直肠腺癌	gold-4
+#254000	KIRC	Kidney renal clear cell carcinoma	肾透明细胞癌	lime-9
+#7cb305	KIRP	Kidney renal papillary cell carcinoma	肾乳头状细胞癌	lime-7
+#d3f261	KICH	Kidney Chromophobe	肾嫌色细胞癌	lime-4
+#eaff8f	CCSK	Clear Cell Sarcoma of the Kidney	肾透明细胞肉瘤	lime-3
+#f4ffb8	WT	High-Risk Wilms Tumor	高风险肾母细胞瘤	lime-2
+#fcffe6	RT	Rhabdoid Tumor	横纹肌样瘤	lime-1
+#237804	LUAD	Lung adenocarcinoma	肺腺癌	green-8
+#95de64	LUSC	Lung squamous cell carcinoma	肺鳞癌	green-4
+#d9f7be	MESO	Mesothelioma	间皮瘤	green-2
+#08979c	BLCA	Bladder Urothelial Carcinoma	膀胱尿路上皮癌	cyan-7
+#13c2c2	PRAD	Prostate adenocarcinoma	前列腺癌	cyan-6
+#5cdbd3	TGCT	Testicular Germ Cell Tumors	睾丸癌	cyan-4
+#b5f5ec	HNSC	Head and Neck squamous cell carcinoma	头颈鳞状细胞癌	cyan-2
+#0050b3	UVM	Uveal Melanoma	葡萄膜黑色素瘤	blue-8
+#1890ff	SKCM	Skin Cutaneous Melanoma	皮肤黑色素瘤	blue-6
+#69c0ff	SARC	Sarcoma	肉瘤	blue-5
+#722ed1	LAML	Acute Myeloid Leukemia	急性髓细胞样白血病	purple-6
+#b37feb	AML	Acute Myeloid Leukemia	急性髓细胞样白血病	purple-4
+#eb2f96	DLBC	Lymphoid Neoplasm Diffuse Large B-cell Lymphoma	弥漫性大B细胞淋巴瘤	magenta-6
+#ff85c0	THYM	Thymoma	胸腺癌	magenta-4
+#9e1068	OS	Osteosarcoma	骨肉瘤	magenta-8
+#000000	Normal	Normal	正常	black
