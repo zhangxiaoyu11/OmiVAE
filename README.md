@@ -34,7 +34,7 @@ If you use this code for your research, please cite our paper.
 ```
 
 ## OmiEmbed
-***Please check the updated version of OmiVAE:***
+***Please check the updated version of OmiVAE***:
 [OmiEmbed](https://github.com/zhangxiaoyu11/OmiEmbed)
 
 ## License
