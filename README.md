@@ -24,7 +24,7 @@ Paper Link: [arXiv](https://arxiv.org/abs/1908.06278)
 
 ## Citation
 If you use this code for your research, please cite our paper.
-```
+```bibtex
 @inproceedings{OmiVAE2019,
   title={Integrated Multi-omics Analysis Using Variational Autoencoders: Application to Pan-cancer Classification},
   author={Zhang, Xiaoyu and Zhang, Jingqing and Sun, Kai and Yang, Xian and Dai, Chengliang and Guo, Yike},
